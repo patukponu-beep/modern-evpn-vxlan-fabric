@@ -1,4 +1,4 @@
-# EVPN/VXLAN Data Center Fabric
+# Modern EVPN/VXLAN Data Center Fabric
 
 ## Overview
 
@@ -15,6 +15,8 @@ The goal is to illustrate how modern data centers separate transport (underlay) 
 ---
 
 ## Topology
+
+![IBGP EVPN OVERLAY OVER EBGP UNDERLAY](Topology.png)
 
 ### Control Plane
 
